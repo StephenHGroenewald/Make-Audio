@@ -1,0 +1,7 @@
+{
+  "name": "Make Audio",
+  "description": "In-browser text-to-speech powered by the Kokoro-82M model with clipboard paste integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
